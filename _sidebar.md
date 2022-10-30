@@ -1,0 +1,17 @@
+<!-- docs/_sidebar.md -->
+* [首页](/)
+* 新手教程
+  * [零散](course/base.md)
+  * [酿酒](course/brewery.md)
+  * [mcmmo](course/mcmmo.md)
+  * [枪械](course/crackshot.md)
+  * [圈地用法](course/residence.md)
+  * [高级附魔](course/advancedenchantments.md)
+* [关于顶贴](docs/mcbbs.md)
+* 玩家须知
+  * [作弊的定义](rules/cheat.md)
+  * [玩家守则](rules/agreement.md)
+* [进服问题](docs/joinQA.md)
+* [奖励兑换](docs/reward.md)
+* [材质包?](docs/resourcepack.md)
+* [支持](docs/support.md)
