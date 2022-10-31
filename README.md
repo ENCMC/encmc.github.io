@@ -4,7 +4,7 @@
 
 #### 服务器加入IP：`XIYE.WORLD` QQ交流群：[949774328](https://jq.qq.com/?_wv=1027&k=2nYWBNUY)
 
-#### MCBBS发布帖：https://www.mcbbs.net/forum.php?mod=viewthread&tid=1385660
+#### MCBBS发布帖：https://www.mcbbs.net/thread-1385660-1-1.html
 
 # <a style="font-size: 35px;color: black;">服务器介绍</a>
 
