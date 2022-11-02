@@ -5,6 +5,8 @@
 #### 服务器加入IP：`XIYE.WORLD` QQ交流群：[949774328](https://jq.qq.com/?_wv=1027&k=2nYWBNUY)
 
 #### MCBBS发布帖：https://www.mcbbs.net/thread-1385660-1-1.html
+#### MineBBS发布帖 https://www.minebbs.com/threads/craft-1-19-x.12181/
+#### MC百科找服玩 https://play.mcmod.cn/score/list/20186568-1.html
 
 # <a style="font-size: 35px;color: black;">服务器介绍</a>
 
