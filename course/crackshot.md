@@ -6,7 +6,7 @@
 
 当你按下**丢弃键**即可装弹
 
-![img](../imag/crackshot/1.gif)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/crackshot/1.gif)
 
 当你将这一轮子弹打完后会自动装弹(如果没自动装弹请再点击一下**放置键**)
 
@@ -18,7 +18,7 @@
 
 下图是可以使用**攻击键**进行开镜的截图，基本上的狙都可以开镜
 
-![img](../imag/crackshot/2.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/crackshot/2.png)
 
 # 得到枪?
 
@@ -26,19 +26,19 @@
 
 ### 在主城商店进行购买初级枪械包
 
-![img](../imag/crackshot/3.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/crackshot/3.png)
 
 ### 在主城与军火商人进行兑换
 
-![img](../imag/crackshot/4.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/crackshot/4.png)
 
 ### 在每时宝箱中进行随机抽取
 
-![img](../imag/crackshot/5.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/crackshot/5.png)
 
 ### 使用顶贴兑换券兑换
 
-![img](../imag/crackshot/6.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/crackshot/6.png)
 
 # 得到配件？
 
@@ -46,7 +46,7 @@
 
 配件你可以在主城的**配件商人**那里获取
 
-![img](../imag/crackshot/7.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/crackshot/7.png)
 
 对于给枪械上配件就比作给武器上高级附魔一样操纵**拖拽**
 
@@ -58,7 +58,7 @@
 
 那是因为你没装**服务器专属材质包**
 
-![img](../imag/crackshot/8.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/crackshot/8.png)
 
 # 地图
 

@@ -46,7 +46,7 @@
 
 第一步是发酵新鲜的原料。 把坩锅放在热源(火/岩浆)上 把坩锅装满水 用右键点击坩埚添加配料 *有些配料需要特殊放置，才能让坩锅接受它们。检查这篇文章底部的错误列表。* 等待它们发酵 用玻璃瓶装起 如果你想知道原料发酵了多久，可以用一个时钟右键坩锅。它会在聊天栏显示发酵了多久 
 
-![img](../imag/brewery/1.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/1.png)
 
 ## **蒸馏**
 
@@ -58,37 +58,37 @@
 
 桶）
 
- ![img](../imag/brewery/2.png) 
+ ![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/2.png) 
 
 在右下角放置一个告示牌，并在告示牌写上“barrel”： 应显示消息“木桶已创建”。
 
- ![img](../imag/brewery/3.png) 
+ ![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/3.png) 
 
 大桶 4栅栏，16层木楼梯，18块这样建造的木板(里面可以是空心的)： 在桶上放一个水龙头（木栅栏）和一个在第一行写有”barrel”的告示牌：
 
- ![img](../imag/brewery/4.png) 
+ ![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/4.png) 
 
 应显示消息“木桶已创建” 
 
-![img](../imag/brewery/5.png) 
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/5.png) 
 
-创建后，您可以将告示牌从大木桶上移除。不过，告示牌必须留在小木桶上。 ![img](../imag/brewery/6.png)
+创建后，您可以将告示牌从大木桶上移除。不过，告示牌必须留在小木桶上。 ![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/6.png)
 
  移除告示牌后的大木桶可以从水龙头的位置打开木桶的GUI
 
- ![img](../imag/brewery/7.png) 
+ ![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/7.png) 
 
 原版的木桶也能陈化酒，效果跟手动搭建的木桶完全一样........只要把发酵后 的酒瓶放进去就好节省空间但不够浪漫
 
- ![img](../imag/brewery/8.png) 
+ ![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/8.png) 
 
 用右键单击整个小木桶的任何位置都能打开小木桶。
 
- ![img](../imag/brewery/9.png) 
+ ![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/9.png) 
 
 把瓶子放进桶里陈酿。
 
- ![img](../imag/brewery/10.png) 
+ ![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/brewery/10.png) 
 
 根据配方的不同，使用的木材类型可能会改变陈酿的质量。 桶在陈酿时不能被破坏，因为破坏后过一段时间酒就会洒出来。 当破坏大木桶的水龙头的时候，里面的东西都会洒出来。
 

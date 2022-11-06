@@ -7,7 +7,7 @@
 
 当你在菜单或者使用命令/enchanter打开时会显示如下图界面
 
-![img](../imag/advancedenchantments/1.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/1.png)
 
 ## 彩色玻璃板?
 
@@ -15,7 +15,7 @@
 
 当你使用**右键**点击对应等级的玻璃板是可以查看**对应等级**的所有附魔书的
 
-![img](../imag/advancedenchantments/2.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/2.png)
 
 ## 查看附魔信息
 
@@ -23,11 +23,11 @@
 
 其中：把鼠标移上去是可以查看此附魔书的信息的
 
-![img](../imag/advancedenchantments/3.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/3.png)
 
 如果你手上**已经有此附魔书**但是又懒得找此附魔的介绍的话可以**手持此附魔书**进行**右键**，这样的话你的聊天栏中则会显示此附魔的信息
 
-![img](../imag/advancedenchantments/4.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/4.png)
 
 ### 对应的显示？
 
@@ -91,7 +91,7 @@ V = 五级
 
 以下是拖拽附魔的示例**GIF*
 
-![img](../imag/advancedenchantments/5.gif)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/5.gif)
 
 ## 成功率？
 
@@ -103,17 +103,17 @@ V = 五级
 
 例如下图所示的一样
 
-![img](../imag/advancedenchantments/6.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/6.png)
 
 当你附魔成功时则就像上一条**进行附魔**一样，此附魔属性就直接到了对应的物品上了
 
 且左下角聊天栏则会提示
 
-![img](../imag/advancedenchantments/7.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/7.png)
 
 但是当你失败率较高就很容易提示
 
-![img](../imag/advancedenchantments/8.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/8.png)
 
 附魔失败是不会损坏你的物品的，但是这本附魔书就没了
 
@@ -121,21 +121,21 @@ V = 五级
 
 提升成功率的第一步就需要使用到**铁匠铺**
 
-![img](../imag/advancedenchantments/9.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/9.png)
 
 进入后你可以将你**不需要**的附魔书给放到**左边的"我"**
 
-![img](../imag/advancedenchantments/10.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/10.png)
 
 但是你**不能**直接从右边直接拿出来
 
 你需要点击左右两边任意一边的红色玻璃板进行**初步确认**交易
 
-![img](../imag/advancedenchantments/11.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/11.png)
 
 当你点击后你会发现这个玻璃板变成了黄绿色玻璃板
 
-![img](../imag/advancedenchantments/12.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/12.png)
 
 然后你**再点击一次**确认交易即可获得粉尘了
 
@@ -149,24 +149,24 @@ V = 五级
 
 当你拥有了**魔法尘埃**就可以像附魔一样拖拽给附魔书**增加**成功率
 
-![img](../imag/advancedenchantments/13.gif)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/13.gif)
 
 ### 锻造台?
 
 锻造台本身是没啥用的，但是对于一些人是需要的
 
-![img](../imag/advancedenchantments/14.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/14.png)
 
 当你进去之后你会发现它只有**两个**槽位
 
-![img](../imag/advancedenchantments/15.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/15.png)
 
 这两个槽位不能放附魔书，不能放装备等，只能放**魔法尘埃**
 
 当你放入两个增加6%的魔法尘埃以后则可以合成出对应的12%魔法尘埃
 
-![img](../imag/advancedenchantments/16.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/16.png)
 
 但是你需要花费经验进行合成，每次合成所需要的经验都有所不同，记住，他是扣除经验而不是扣除等级
 
-![img](../imag/advancedenchantments/17.png)
+![img](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/advancedenchantments/17.png)
