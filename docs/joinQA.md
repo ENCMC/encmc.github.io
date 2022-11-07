@@ -32,10 +32,20 @@ minA：你所在的地方发包过大，网络加载不过来导致。到发包�
 
 ### A：
 
-这是1.19版本造成的，安装No Chat ReportsMOD即可
+这是1.19版本造成的，安装No Chat Reports MOD即可
 
 1.19.2Fabric[点击下载](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/resourcepack/NoChatReports-FABRIC-1.19.2-v1.10.2.jar)
 
 1.19.1Fabric[点击下载](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/resourcepack/NoChatReports-FABRIC-1.19.1-v1.8.4.jar)
 
 1.19Fabric[点击下载](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/resourcepack/NoChatReports-FABRIC-1.19-v1.2.3.jar)
+
+### Q:
+
+为什么进入服务器提示“Bad packet xxx”？
+
+### A：
+
+也是1.19.x版本问题造成的，解决方法同上，如果是1.19.1/.2 Fabric，使用No Prying Eyes mod就可以了。
+
+Modrinth链接：https://modrinth.com/mod/no-prying-eyes
