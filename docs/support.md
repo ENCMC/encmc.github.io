@@ -16,15 +16,15 @@
 
 ## 愿望单
 
-> 自定义板报插件 110CNY
+    > 自定义板报插件 110CNY
 
-> ItemAdder(游玩扩展) 150CNY
+    > ItemAdder(游玩扩展) 150CNY
 
-> 头颅数据库 75CNY
+    > 头颅数据库 75CNY
 
-> 反作弊 140RMB
+    > 反作弊 140RMB
 
-> 捕捉球 50RMB
+    > 捕捉球 50RMB
 
 peace1787赞助了50CNY
 
