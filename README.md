@@ -6,7 +6,7 @@
 
 #### MCBBS发布帖：https://www.mcbbs.net/thread-1385660-1-1.html
 #### MineBBS发布帖：https://www.minebbs.com/threads/craft-1-19-x.12181/
-#### MC百科找服玩：https://play.mcmod.cn/score/list/20186568-1.html
+#### MC百科找服玩：https://play.mcmod.cn/sv20186568.html
 
 # <a style="font-size: 35px;color: black;">服务器介绍</a>
 
