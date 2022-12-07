@@ -9,7 +9,7 @@
 
 于版本v1.5.9开始记载
 
-<details> <summary>正常版</summary>
+<details> <summary>正常版 [ C ]</summary>
 
 ```
 v1.5.15
@@ -104,7 +104,7 @@ v1.5.9
 
 </details>
 
-<details> <summary>沉浸版+正常版</summary>
+<details> <summary>沉浸版+正常版 [ I+C ]</summary>
 
 ```
 v1.4.5+v1.5.15
