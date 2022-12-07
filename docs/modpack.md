@@ -11,6 +11,7 @@
 
 <details> <summary>正常版</summary>
 
+```
 v1.5.15
  - 添加新mod：AdaptiveTooltips，代替冰山和scrollable tooltips两个mod的功能。但需要先按Alt才可以滚动。
  - 添加新mod：BetterStats，代替原版的统计界面。
@@ -99,11 +100,13 @@ v1.5.9
  - 更新Debugify，由于此次变动，删掉了平滑滚动mod。
  - 添加EBE优化补丁资源包。
  - 支持资源包搜索。
+```
 
 </details>
 
 <details> <summary>沉浸版+正常版</summary>
 
+```
 v1.4.5+v1.5.15
 I：
  - 添加新mod：TelePistons，活塞的动画更佳美观且有蒸汽。
@@ -211,5 +214,6 @@ v1.4.2+v1.5.9
  - 支持资源包搜索。
  - 更换物理声音mod，略微提高性能
  - 更新Physics mod到2.8.13
+```
 
 </details>
