@@ -36,11 +36,11 @@ minA: 你所在的地方发包过大，网络加载不过来导致。到发包�
 
 这是1.19版本造成的，安装No Chat Reports MOD即可
 
-1.19.2Fabric[[点击下载]](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/resourcepack/NoChatReports-FABRIC-1.19.2-v1.10.2.jar)
+1.19.2 Fabric [[点击下载]](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/resourcepack/NoChatReports-FABRIC-1.19.2-v1.10.2.jar)
 
-1.19.1Fabric[[点击下载]](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/resourcepack/NoChatReports-FABRIC-1.19.1-v1.8.4.jar)
+1.19.1 Fabric [[点击下载]](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/resourcepack/NoChatReports-FABRIC-1.19.1-v1.8.4.jar)
 
-1.19Fabric[[点击下载]](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/resourcepack/NoChatReports-FABRIC-1.19-v1.2.3.jar)
+1.19 Fabric [[点击下载]](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/resourcepack/NoChatReports-FABRIC-1.19-v1.2.3.jar)
 
 ### Q4:
 
