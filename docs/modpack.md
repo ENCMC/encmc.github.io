@@ -1,8 +1,11 @@
 ## 客户端
 
-#### 获取链接：https://pan.baidu.com/s/12_DEx41JwHo1L-xFuMjkkw?pwd=XIYE
+### 获取链接：
+#### 百度网盘： https://pan.baidu.com/s/12_DEx41JwHo1L-xFuMjkkw?pwd=XIYE
+#### 蓝奏云：https://wwuw.lanzouf.com/b03vft9ad 
+##### 提取码：XIYE
 
-#### <font color="red">**非追求极致效果请选择普通版！**</font>
+### <font color="red">**非追求极致效果请选择普通版！**</font>
 
 
 ### 更新日志
@@ -12,6 +15,19 @@
 <details> <summary>正常版 [ C ]</summary>
 
 ```
+v1.5.16
+ - 更新better stats到2.0。
+ - 更新Entity Texture Features到4.2.0。
+ - 更新Fabric API到0.68.0。
+ - 更新Fabric Language Kotlin到1.8.7（Kotlin.1.7.22）。
+ - 更新ImmedialyFast到1.0.6。
+ - 更新Iris到1.4.5。
+ - 更新Xaero的世界地图到1.28.4。
+ - 更新Xaero的小地图到22.16.3。
+ - 更新模组菜单到4.1.2。
+ - 更新铁氧体磁芯到5.0.3。
+ - 移除Raise Sound Limit Simplified，不稳定。
+
 v1.5.15
  - 添加新mod：AdaptiveTooltips，代替冰山和scrollable tooltips两个mod的功能。但需要先按Alt才可以滚动。
  - 添加新mod：BetterStats，代替原版的统计界面。
@@ -107,6 +123,24 @@ v1.5.9
 <details> <summary>沉浸版+正常版 [ I+C ]</summary>
 
 ```
+v1.4.6+v1.5.16
+I：
+ - 更新物理声效重制版到1.0.16。
+ - 更新真实物理到2.9.4。
+ - 调整相关配置以同步普通版。
+C：
+ - 更新better stats到2.0。
+ - 更新Entity Texture Features到4.2.0。
+ - 更新Fabric API到0.68.0。
+ - 更新Fabric Language Kotlin到1.8.7（Kotlin.1.7.22）。
+ - 更新ImmedialyFast到1.0.6。
+ - 更新Iris到1.4.5。
+ - 更新Xaero的世界地图到1.28.4。
+ - 更新Xaero的小地图到22.16.3。
+ - 更新模组菜单到4.1.2。
+ - 更新铁氧体磁芯到5.0.3。
+ - 移除Raise Sound Limit Simplified，不稳定。
+
 v1.4.5+v1.5.15
 I：
  - 添加新mod：TelePistons，活塞的动画更佳美观且有蒸汽。
