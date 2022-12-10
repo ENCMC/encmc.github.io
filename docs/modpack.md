@@ -1,8 +1,8 @@
 ## 客户端
 
-### 获取链接[提取码：`XIYE`]（<font color="red"><u><b>非追求极致效果请选择普通版！</b></u></font>）：
-> #### 百度网盘： https://pan.baidu.com/s/12_DEx41JwHo1L-xFuMjkkw?pwd=XIYE
-> #### 蓝奏云：https://wwuw.lanzouf.com/b03vft9ad 
+### 获取链接 [提取码：`XIYE`]（<font color="red"><u><b>非追求极致效果请选择普通版！</b></u></font>）：
+> <h4> 百度网盘：</h4> https://pan.baidu.com/s/12_DEx41JwHo1L-xFuMjkkw?pwd=XIYE
+> <h4>蓝奏云：</h4>https://wwuw.lanzouf.com/b03vft9ad 
 
 ### 更新日志
 
