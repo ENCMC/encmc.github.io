@@ -1,18 +1,16 @@
 ## 客户端
 
-### 获取链接：
-#### 百度网盘： https://pan.baidu.com/s/12_DEx41JwHo1L-xFuMjkkw?pwd=XIYE
-#### 蓝奏云：https://wwuw.lanzouf.com/b03vft9ad 
-##### 提取码：XIYE
-
-### <font color="red">**非追求极致效果请选择普通版！**</font>
-
+### 获取链接[提取码：`XIYE`]（<font color="red"><u><b>非追求极致效果请选择普通版！</b></u></font>）：
+> #### 百度网盘： https://pan.baidu.com/s/12_DEx41JwHo1L-xFuMjkkw?pwd=XIYE
+> #### 蓝奏云：https://wwuw.lanzouf.com/b03vft9ad 
 
 ### 更新日志
 
-于版本v1.5.9开始记载
+普通版于版本`v1.5.9`开始记载
+</br>
+沉浸版+普通版于版本`v1.4.2+v1.5.9`开始记载
 
-<details> <summary>正常版 [ C ]</summary>
+<details> <summary>普通版 [ C ]</summary>
 
 ```
 v1.5.16
@@ -120,7 +118,7 @@ v1.5.9
 
 </details>
 
-<details> <summary>沉浸版+正常版 [ I+C ]</summary>
+<details> <summary>沉浸版+普通版 [ I+C ]</summary>
 
 ```
 v1.4.6+v1.5.16
