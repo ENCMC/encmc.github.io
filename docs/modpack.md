@@ -13,6 +13,11 @@
 <details> <summary>普通版 [ C ]</summary>
 
 ```
+v1.5.17_Hot1
+ - 更新MoreCulling到0.12.4，以防崩溃。
+ - 更新钠 · 扩展到0.4.16。
+ - 调整相关光影配置。
+
 v1.5.17
  - 添加Keybind Fix，用来解决一定程度上的按键冲突。
  - 添加MixinTrace，用于崩溃日志打印Mixin使用情况。
