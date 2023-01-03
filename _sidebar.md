@@ -12,6 +12,7 @@
   * [作弊的定义](rules/cheat.md)
   * [玩家守则](rules/agreement.md)
 * [进服问题](docs/joinQA.md)
+* [寻求帮助?](docs/help.md)
 * [奖励兑换](docs/reward.md)
 * [更新日志](docs/logs.md)
 * [材质包?](docs/resourcepack.md)
