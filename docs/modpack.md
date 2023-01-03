@@ -13,6 +13,9 @@
 <details> <summary>普通版 [ C ]</summary>
 
 ```
+v1.5.17_Hot2
+ - SCL启动器1.1.0更新，修复JVM参数问题。因补上。
+
 v1.5.17_Hot1
  - 更新MoreCulling到0.12.4，以防崩溃。
  - 更新钠 · 扩展到0.4.16。
@@ -145,6 +148,38 @@ v1.5.9
 <details> <summary>沉浸版+普通版 [ I+C ]</summary>
 
 ```
+v1.4.7+v1.5.17_Hot2
+I：
+ - 更新CameraOverhaul到1.4.0。
+ - 更新物理声效重制版到1.0.18。
+ - 更新脚步声到1.6.4。
+C：
+ - SCL启动器1.1.0更新，修复JVM参数问题。因补上。
+
+v1.5.17_Hot1
+ - 更新MoreCulling到0.12.4，以防崩溃。
+ - 更新钠 · 扩展到0.4.16。
+ - 调整相关光影配置。
+
+v1.5.17
+ - 添加Keybind Fix，用来解决一定程度上的按键冲突。
+ - 添加MixinTrace，用于崩溃日志打印Mixin使用情况。
+ - 更新Better Statistics Screen到2.1.1。
+ - 更新Connectivity到3.7。
+ - 更新Fabric API到0.70.0。
+ - 更新Fabric Loader到0.14.12。
+ - 更新FastLoad到2.4.4。
+ - 更新ImmediatelyFast到1.1.0。
+ - 更新Lambda的动态光源到2.2.0。
+ - 更新More Culling到0.12.3。
+ - 更新Xaero的世界地图到1.28.7。
+ - 更新Xaero的小地图到22.17.0。
+ - 更新更好的任务栏到1.5.1。
+ - 更新钠 · 扩展到0.4.15。
+ - 因More Culling更新，代替Cull Clouds的功能，因此移除。
+ - 因More Culling更新，代替FeyTweaks的功能，因此移除。
+ - Too Many Players作用不大，因此移除。
+
 v1.4.6+v1.5.16
 I：
  - 更新物理声效重制版到1.0.16。
