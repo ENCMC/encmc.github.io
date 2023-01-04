@@ -7,7 +7,7 @@ titleTemplate: 进服帮助
 
 下载1.17.X—1.19.X任意客户端即可，即使没装MOD也可以加入。
 
-当你看了[QA3](#q3)/[QA4](#q4)仍不会弄，~~或者纯属懒~~， 也可以使用[夕夜客户端](https://docs.xiye.world/join-game/client.md)。
+当你看了[QA3](#q3)/[QA4](#q4)仍不会弄，~~或者纯属懒~~， 也可以使用[夕夜客户端](/join-game/client)。
 
 ## 常见问题
 
