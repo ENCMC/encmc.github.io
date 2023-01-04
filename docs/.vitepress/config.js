@@ -4,6 +4,7 @@ export default{
     title: '夕夜Craft',
     lastUpdated: true,
      ignoreDeadLinks: true,
+     lastUpdatedText: '上次修改时间',
   themeConfig: {
     logo: 'https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/docs/token.png',
     nav: [
