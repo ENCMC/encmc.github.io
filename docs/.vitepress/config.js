@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default{
     title: '夕夜Craft',
     lastUpdated: true,
-    base: '/',
+     ignoreDeadLinks: true,
   themeConfig: {
     logo: 'https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/docs/token.png',
     nav: [
