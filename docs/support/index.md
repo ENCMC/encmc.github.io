@@ -26,7 +26,7 @@ w3kl赞助了38.3CNY
 
 aiyameikong赞助了228CNY
 
-Kotat赞助了10CNY
+Kotat赞助了30CNY
 
 Jin_li赞助了15CNY
 
@@ -133,3 +133,5 @@ hym72赞助了2CNY
 mUwUm赞助了50CNY
 
 jiujiu赞助了5CNY
+
+MixLite赞助了17.77CNY
