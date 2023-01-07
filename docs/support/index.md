@@ -14,7 +14,7 @@ peace1787赞助了50CNY
 
 YangDalin赞助了470CNY+远程开关机模块(顺丰包邮19CNY)
 
-XiaoXieHou赞助了115CNY
+XiaoXieHou赞助了130CNY
 
 xlls234赞助了约1620CNY+两根DDR4,8G内存条
 
@@ -60,7 +60,7 @@ LOVE_leiting赞助了50CNY
 
 7890赞助了13CNY
 
-universeDADA赞助了45CNY
+universeDADA赞助了65CNY
 
 DLHMZZZ赞助了25CNY
 
@@ -129,3 +129,7 @@ xieao赞助了10CNYCNY
 544257赞助了4CNY
 
 hym72赞助了2CNY
+
+mUwUm赞助了50CNY
+
+jiujiu赞助了5CNY
