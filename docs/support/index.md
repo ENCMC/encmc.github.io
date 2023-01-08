@@ -137,3 +137,5 @@ jiujiu赞助了5CNY
 MixLite赞助了17.77CNY
 
 waste_time赞助了3CNY
+
+jingting赞助了5CNY
