@@ -26,7 +26,7 @@ w3kl赞助了38.3CNY
 
 aiyameikong赞助了228CNY
 
-Kotat赞助了10CNY
+Kotat赞助了30CNY
 
 Jin_li赞助了15CNY
 
@@ -60,7 +60,7 @@ LOVE_leiting赞助了50CNY
 
 7890赞助了13CNY
 
-universeDADA赞助了65CNY
+universeDADA赞助了66.23CNY
 
 DLHMZZZ赞助了25CNY
 
@@ -133,3 +133,7 @@ hym72赞助了2CNY
 mUwUm赞助了50CNY
 
 jiujiu赞助了5CNY
+
+MixLite赞助了17.77CNY
+
+waste_time赞助了3CNY
