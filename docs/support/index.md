@@ -60,7 +60,7 @@ LOVE_leiting赞助了50CNY
 
 7890赞助了13CNY
 
-universeDADA赞助了65CNY
+universeDADA赞助了66.23CNY
 
 DLHMZZZ赞助了25CNY
 
@@ -135,3 +135,5 @@ mUwUm赞助了50CNY
 jiujiu赞助了5CNY
 
 MixLite赞助了17.77CNY
+
+waste_time赞助了3CNY
