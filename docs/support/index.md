@@ -139,3 +139,9 @@ MixLite赞助了17.77CNY
 waste_time赞助了3CNY
 
 jingting赞助了5CNY
+
+FlowerKagamine赞助了10CNY
+
+15632267528赞助了3.01CNY
+
+OH_MC赞助了2CNY
