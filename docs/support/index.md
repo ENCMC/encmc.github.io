@@ -70,7 +70,7 @@ GodsHunter_ZR(已封禁)赞助了30CNY
 
 BRKsHacker赞助了9CNY
 
-JDGaster赞助了153CNY
+JDGaster赞助了163CNY
 
 hyasdmr赞助了8CNY
 
@@ -145,3 +145,5 @@ FlowerKagamine赞助了10CNY
 15632267528赞助了3.01CNY
 
 OH_MC赞助了2CNY
+
+ZhangRT1241赞助了70CNY
